@@ -1,0 +1,8 @@
+# Large artifacts excluded (>100MB GitHub limit) — kept locally only
+Forensic/Certified Fish/certified-fish.zip
+Misc/AI Authenticator/DONT_UPLOAD/ai_docker.zip
+
+# OS junk
+.DS_Store
+__MACOSX/
+._*
